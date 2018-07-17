@@ -1,0 +1,19 @@
+body{
+	margin-bottom: 50px;
+}
+
+#footer{
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   padding: 10px;
+   width: 100%;
+   background-color: #999;
+   color: white;
+   text-align: center;
+}
+
+.container{
+	margin: 25px;
+	padding: 20px;
+}
